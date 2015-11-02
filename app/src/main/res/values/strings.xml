@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DVSA Cancellation Finder</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_setup">Setup</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_license_number">Driving Licence Number</string>
+    <string name="prompt_application_ref_number">Application Reference Number</string>
+    <string name="action_save">Save</string>
+    <string name="action_save_short">Save</string>
+    <string name="error_invalid_license_number">This license number is invalid</string>
+    <string name="error_invalid_application_ref_number">This application reference number is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="prefs_file">DVSAPrefs</string>
+    <string name="prefs_isSetupComplete">isSetupComplete</string>
+    <string name="action_setup">Setup</string>
+    <string name="action_reset">Reset</string>
+    <string name="prefs_licenseNumber">licenseNumber</string>
+    <string name="prefs_applicationRefNumber">applicationRefNumber</string>
+</resources>
